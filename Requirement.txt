@@ -1,0 +1,10 @@
+Libraries used in Project..
+
+1. Pandas 
+2. Numpy 
+3. Re
+4. Requests
+5. BeautifulSoup
+6. Pathlib 
+7. Matplotlib
+8. Seaborn 
